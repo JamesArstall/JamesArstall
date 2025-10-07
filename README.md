@@ -1,5 +1,5 @@
 ## Hi there my name is James👋
-I am studying BSC (HONS) computing (Networking, security, and forensics) at Edge Hill University
+I am studying BSC (HONS) Computing (Networking, Security, and Forensics) at Edge Hill University
 <!--
 **JamesArstall/JamesArstall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
